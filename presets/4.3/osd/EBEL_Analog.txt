@@ -11,7 +11,7 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: <img src="https://i0.wp.com/theuavtech.com/wp-content/uploads/2020/10/icon-150x150-1.png" width="125px" style="margin-left: auto; margin-right: auto; display: block;"/>
 #$ DESCRIPTION: 
-#$ DESCRIPTION: Information:
+#$ DESCRIPTION: Informations:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: Geneeral analog OSD Setup. Layout was based on **NTSC** so if you need use the **PAL** format you may need to adjust element locations.
 #$ DESCRIPTION: 
