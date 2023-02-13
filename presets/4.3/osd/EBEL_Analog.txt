@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: analog
+#$ KEYWORDS: ebel, analog
 #$ AUTHOR: EBEL (gonebdg)
 
 #$ PARSER: MARKED
